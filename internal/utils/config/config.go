@@ -31,7 +31,7 @@ type TomlConfig struct {
 	Asterisk struct {
 		Context         string `toml:"call-context" env:"ASTERISK_CONTEXT"`
 		PlaybackContext string `toml:"playback-context" env:"ASTERISK_PLAYBACK_CONTEXT"`
-	}
+	} `toml:"asterisk"`
 }
 
 var config *TomlConfig
