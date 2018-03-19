@@ -2,7 +2,7 @@ package api
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/incu6us/asterisk-ami-api/internal/platform/api/handler"
+	"https://github.com/hlihhovac/asterisk-ami-api/tree/master/internal/platform/api/handler"
 	"net/http"
 	"time"
 )

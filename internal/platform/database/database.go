@@ -2,7 +2,7 @@ package database
 
 import (
 	"fmt"
-	"github.com/incu6us/asterisk-ami-api/internal/utils/config"
+	"https://github.com/hlihhovac/asterisk-ami-api/tree/master/internal/utils/config"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 	"log"

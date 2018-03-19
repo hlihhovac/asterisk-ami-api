@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/incu6us/asterisk-ami-api/internal/platform/api"
-	"github.com/incu6us/asterisk-ami-api/internal/utils/config"
+	"github.com/hlihhovac/asterisk-ami-api/tree/master/internal/platform/ami"
+	"github.com/hlihhovac/asterisk-ami-api/tree/master/internal/utils/config"
 	"log"
 	"net/http"
 )

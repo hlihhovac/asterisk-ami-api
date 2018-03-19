@@ -3,9 +3,9 @@ package handler
 import (
 	"encoding/json"
 	"github.com/gorilla/mux"
-	"github.com/incu6us/asterisk-ami-api/internal/platform/ami"
-	"github.com/incu6us/asterisk-ami-api/internal/platform/database"
-	"github.com/incu6us/asterisk-ami-api/internal/utils/config"
+	"https://github.com/hlihhovac/asterisk-ami-api/tree/master/internal/platform/ami"
+	"https://github.com/hlihhovac/asterisk-ami-api/tree/master/internal/platform/database"
+	"https://github.com/hlihhovac/asterisk-ami-api/tree/master/internal/utils/config"
 	"io/ioutil"
 	"log"
 	"net/http"
